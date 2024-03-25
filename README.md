@@ -1,4 +1,6 @@
 # Medistanbul_Hastanesi_Mobil_App
-<link src="https://play.google.com/store/apps/details?id=com.medistanbul.medistanbulmobileapp&pli=1">
+
+Google Play Link
+https://play.google.com/store/apps/details?id=com.medistanbul.medistanbulmobileapp&pli=1
 
 <img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/MobileAppMap.png" width="auto">
