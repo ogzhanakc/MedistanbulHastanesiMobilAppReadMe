@@ -4,7 +4,7 @@ Google Play Link:
 https://play.google.com/store/apps/details?id=com.medistanbul.medistanbulmobileapp&pli=1
 
 Used Packages:
--intl
+-intl\n
 -Shared Preferences
 -http
 -Url launcher
