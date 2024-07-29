@@ -16,7 +16,7 @@ Used Packages:
 -flutter riverpod  
 
 
-<img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/1.png" width="auto">
+<img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/1.png" width="400">
 <img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/2.png" width="auto">
 <img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/3.png" width="auto">
 <img src="https://github.com/Ogzhanakc/Medistanbul_Hastanesi_Mobil_App/blob/master/3-1.png" width="auto">
